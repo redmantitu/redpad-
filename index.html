@@ -42,6 +42,29 @@
         </div>
     </div>
 
+    <!-- Hero Cover Image -->
+    <div class="container" style="padding: 4rem 0 2rem; perspective: 2000px;">
+        <div class="box-in delay-4" style="
+            max-width: 1200px;
+            margin: 0 auto;
+            transform-style: preserve-3d;
+            transition: transform 0.6s ease;
+        ">
+            <img src="cover.png" alt="RedPad++ Interface Preview" style="
+                width: 100%;
+                height: auto;
+                border-radius: 20px;
+                box-shadow: 
+                    0 50px 100px rgba(0, 0, 0, 0.3),
+                    0 20px 40px rgba(217, 4, 41, 0.2),
+                    0 0 0 1px rgba(255, 255, 255, 0.1);
+                transform: rotateX(2deg) rotateY(-2deg);
+                transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+            " onmouseover="this.style.transform='rotateX(0deg) rotateY(0deg) scale(1.02)'"
+                onmouseout="this.style.transform='rotateX(2deg) rotateY(-2deg) scale(1)'">
+        </div>
+    </div>
+
     <!-- Screenshot Showcase -->
     <div class="container screenshot-showcase" id="showcase">
         <div class="app-frame main-shot">
