@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>RedPad++</title>
+  <link>https://crosu.store/</link>
+  <description>Agents at your Fingertips. Privacy by Default. Code at the Speed of Thought.</description>
+  <atom:link href="https://crosu.store/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>RedPad++ Early Access</title>
+    <link>https://crosu.store/#pricing</link>
+    <description>RedPad++ is now available for early access. Get local agentic AI, integrated terminal, and more. Built with SwiftUI and Metal for maximum performance on Apple Silicon.</description>
+    <guid>https://crosu.store/#pricing</guid>
+    <pubDate>Mon, 26 Jan 2026 09:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>
